@@ -1,0 +1,8 @@
+
+.vs/
+Bespoke.Common/obj/
+Bespoke.Common/bin/
+Bespoke.Osc/obj/
+Bespoke.Osc/bin/
+OSCTest/obj/
+OSCTest/bin/
